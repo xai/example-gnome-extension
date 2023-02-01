@@ -1,0 +1,14 @@
+{
+  "name": "example extension",
+  "description": "This is an example extension",
+  "uuid": "example@xai.linux.com",
+  "shell-version": [
+	"3.36",
+	"3.38",
+	"40",
+	"41",
+	"42",
+	"43"
+  ],
+  "session-modes": ["user"]
+}
